@@ -1,6 +1,6 @@
 name: Seattle Wedding DJ
 favicon: null
-layout_spectrum: 0.3464343121740967
+layout_spectrum: 0.36088
 typography_spectrum: 0.17797276214696467
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#cecece'
   brandStrength: 0.019195398781448603
   lightness: 0.53121780580841
-  saturation: 0.7001260148826987
+  saturation: 0.6875
   rhythmicContrast: 0.42293103504925966
 purpose: []
